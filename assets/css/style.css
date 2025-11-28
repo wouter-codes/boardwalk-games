@@ -110,7 +110,7 @@ h2 {
 }
 
 #events .table {
-    font-size: 0.8rem;
+    font-size: 0rem;
 }
 
 /* Footer */
@@ -118,7 +118,7 @@ h2 {
 #contact {
     background-color: var(--primary-color);
     color: white;
-    padding: 3rem;
+    padding-bottom: 3rem;
 }
 
 #contact h2 {
